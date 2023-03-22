@@ -4,7 +4,8 @@
 
 - 开始
 
-  - [快速上手](content_ch/introduction/quickstart.md)
+  - [连接说明]((content_ch/introduction/connect.md))
+  - [安装调试](content_ch/introduction/quickstart.md)
   - [系统配置](content_ch/introduction/configuration/configuration.md)
 
 	- [控制台配置](content_ch/introduction/configuration/console_config.md)
