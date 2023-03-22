@@ -6,7 +6,7 @@
 
   - [连接说明]((content_ch/introduction/connect.md))
   - [安装调试](content_ch/introduction/quickstart.md)
-  - [系统配置](content_ch/introduction/configuration/configuration.md)
+  - [安装APP并与飞控实现通讯](content_ch/introduction/app/appdownload.md)
 
 	- [控制台配置](content_ch/introduction/configuration/console_config.md)
 	- [Mavproxy配置](content_ch/introduction/configuration/mavproxy_config.md)

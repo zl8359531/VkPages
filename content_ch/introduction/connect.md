@@ -2,4 +2,4 @@
 
 ## 连接说明
 
-<img src="pictures/连接图.png" width="100%"> 
+<img src="pictures/connect.png" width="100%"> 
