@@ -1,13 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 </head>
 
 <body>
-    说明书！！！！
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Firmament Autopilot',
+      logo: 'figures/logo.png',
+      repo: 'https://github.com/Firmament-Autopilot',
+      loadSidebar: true,
+      loadSidebar: 'sidebar.md',
+      subMaxLevel: 1,
+      loadNavbar: true,
+      coverpage: false,
+      search: {
+        paths: 'auto',
+        placeholder: 'search',
+        noData: 'not found',
+        depth: 4,
+      },
+    }
+  </script>
+  <nav>
+    <a href="#/">EN</a>
+    <a href="#/content_ch/">中文</a>
+  </nav>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- plugins docsify-sidebar-collapse -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
+  <!-- plugins docsify-sidebar-zoom-image -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- plugins docsify-sidebar-search -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- plugins docsify-copy-code -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!-- plugins pagination -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- language highlight -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-matlab.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
 </body>
-
 </html>
