@@ -7,12 +7,11 @@
   - [连接说明](content_ch/introduction/connect.md)
   - [安装调试](content_ch/introduction/quickstart.md)
   - [安装APP并与飞控实现通讯](content_ch/introduction/app/appdownload.md)
-
 	- [初步飞行](content_ch/introduction/fly.md)
 	- [APP参数说明](content_ch/introduction/APPpar.md)
   - [AB模式](content_ch/introduction/ABmode.md)
   - [自主作业模式](content_ch/introduction/AUTOmode.md)
-	- [APP管理设置]](content_ch/introduction/APPuser.md)
+	- [APP管理设置](content_ch/introduction/APPuser.md)
 	- [植保平台](content_ch/introduction/AGplatform.md)
   - [RTK说明](content_ch/introduction/RTK.md)
   - [灯语](content_ch/introduction/light.md)
