@@ -4,7 +4,7 @@
 
 - 开始
 
-  - [连接说明]((content_ch/introduction/connect.md))
+  - [连接说明](content_ch/introduction/connect.md)
   - [安装调试](content_ch/introduction/quickstart.md)
   - [安装APP并与飞控实现通讯](content_ch/introduction/app/appdownload.md)
 
