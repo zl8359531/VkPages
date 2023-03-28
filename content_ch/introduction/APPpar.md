@@ -6,7 +6,7 @@
 
 图 遥控器设置页面
 
-<img src="pictures/遥控器连接.jpeg" width="100%"> 
+<img src="pictures/遥控器连接.jpeg" width="50%"> 
 
 目前支持蓝牙连接方式及USB连接方式。
 
@@ -18,7 +18,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 通道检查页面
 
-<img src="pictures/APPPAR2.png" width="100%"> 
+<img src="pictures/APPPAR2.png" width="50%"> 
 
 通道检测是用来测试遥控器与无人机是否连接正常，以及判断遥控器是否正常工作。当用户拨动遥控器上的开关、摇动摇杆时，会在地面站上看到相应的通道发生变化。
 
@@ -34,7 +34,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 电机检查页面
 
-<img src="pictures/APPPAR3.jpeg" width="100%"> 
+<img src="pictures/APPPAR3.png" width="50%"> 
 
 电机检查用来检查无人机的电机是否工作正常（油动直驱不具备电机检查功能）。点击对应每个电机的检查按钮，无人机的电机会旋转，同时在进度条上会显示电机转速情况，以此来判断电机工作情况。最多可以检查8个电机。
 
@@ -48,7 +48,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 植保设置页面
 
-<img src="pictures/APPPAR4.jpeg" width="100%"> 
+<img src="pictures/APPPAR4.jpeg" width="50%"> 
 
 在植保设置中，用户可以调节垄距（AB航线间距），飞行速度（最大速度），以及用两种方式设置喷洒流量（选择固定时设置的时水泵的电机的工作功率百分比从0-100；选择随速时根据飞机的速度最大时的亩用量）。
 
@@ -57,7 +57,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 # 飞行设置
 
 
-<img src="pictures/APPPAR5.jpeg" width="50%">  <img src="pictures/APPPAR6.jpeg" width="50%"> 
+<img src="pictures/APPPAR5.png" width="50%">  <img src="pictures/APPPAR6.jpeg" width="50%"> 
 
 在飞行设置中，用户可以设置：
 
@@ -95,7 +95,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 日志页面
 
-<img src="pictures/APPPAR7.jpeg" width="100%">
+<img src="pictures/APPPAR7.jpeg" width="50%">
 
 日志页面用来读取无人机上的飞行日志，用来帮助无人机开发人员更好的发现无人机的问题。*注：必须要在无人机停在地面上且螺旋桨已锁定的情况下才可以读取日志，以免发生危险。*
 
@@ -109,7 +109,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 版本信息页面
 
-<img src="pictures/APPPAR8.jpeg" width="100%"> 
+<img src="pictures/APPPAR8.jpeg" width="50%"> 
 
 版本信息用于显示地面站版本，飞控固件版本、序列号等信息。也可以在这里检查更新、升级地面站软件和飞控固件等其他固件版本。
 
@@ -119,7 +119,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 调试页面
 
-<img src="pictures/APPPAR9.jpeg" width="100%"> 
+<img src="pictures/APPPAR9.jpeg" width="50%"> 
 
 调试页面更详细的显示一些飞控信息。
 
@@ -134,7 +134,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 智能电池页面
 
-<img src="pictures/APPPAR10.jpeg" width="100%"> 
+<img src="pictures/APPPAR10.jpeg" width="50%"> 
 
 # 油电引擎
 
@@ -146,7 +146,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 作业机类型页面
 
-<img src="pictures/APPPAR11.jpeg" width="100%"> 
+<img src="pictures/APPPAR11.jpeg" width="50%"> 
 
 # 其他设置
 
@@ -156,7 +156,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 其他设置页面
 
-<img src="pictures/APPPAR12.jpeg" width="100%"> 
+<img src="pictures/APPPAR12.jpeg" width="50%"> 
 
 # 高级设置
 
@@ -166,7 +166,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-机型设置
 
-<img src="pictures/APPPAR13.jpeg" width="100%"> 
+<img src="pictures/APPPAR13.jpeg" width="50%"> 
 
 设置与飞机匹配的机型类型，注意电机转向及电机序号定义。
 
@@ -174,7 +174,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-算法参数
 
-<img src="pictures/APPPAR14.jpeg" width="100%"> 
+<img src="pictures/APPPAR14.jpeg" width="50%"> 
 
 **噪声抑制**：抑制飞机机体的震动，震动越大的飞机，需要设置的数值越高。此选项的设置需要跟飞机震动情况匹配。选取依据是在基本能飞的参数下，尝试只改变此参数，以飞行状体为依据，选取一个合适的等级。
 
@@ -208,7 +208,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-飞行校准
 
-<img src="pictures/APPPAR17.jpeg" width="100%"> 
+<img src="pictures/APPPAR17.jpeg" width="50%"> 
 
 **水平校准**：当飞控水平出现偏差时，做一次水平校准，一般飞控出厂会校准，客户无需校准。
 
