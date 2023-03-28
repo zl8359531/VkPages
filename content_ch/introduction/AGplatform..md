@@ -11,13 +11,13 @@
 
 1.  首先登陆h[ttp://agcloud.vk-fly.com](http://agcloud.vk-fly.com/) 点击注册，如下图红框所示：
 
-图 植保数据管理平台注册界面
+<img src="pictures/AGAPP2.png" width="100%"> 
 
 2）在注册界面根据自身的需求，真实填写注册信息，然后提交即可完成注册。等待平台维护人员的审核。
 
 图 注册详细信息
 
-![](media/14a12515f49b82e7cfa807cd5c012c1c.png)
+<img src="pictures/AGAPP1.jpeg" width="100%"> 
 
 **  
 **
@@ -30,7 +30,7 @@
 
 图 植保云平台主界面
 
-![](media/f31dc990ac7dfe82c2f83348e9486aeb.png)
+<img src="pictures/AGAPP3.jpeg" width="100%"> 
 
 -   实时监控：可以在地图上实时监控该账户下所有作业设备的实时在线作业情况；
 -   数据统计：进行作业统计，已图表化显示；
@@ -47,7 +47,7 @@
 
 图 云平台实时监控界面
 
-![](media/728dcc9dd0da0fea58424d6bcd57846f.png)
+<img src="pictures/AGAPP4.jpeg" width="100%"> 
 
 实时监控界面显示了本公司当前在线作业的所有农机设备在地图上的位置，并在上方的显示栏显示了本账号下所有的农机数量、在线农机数量、作业总时间、作业总亩数等信息。
 
@@ -55,13 +55,13 @@
 
 图 农机详细信息图
 
-![飞得高](media/5f222857fdb82db56446b4c4f7bc0e33.png)
+<img src="pictures/AGAPP5.jpeg" width="100%"> 
 
 通过单击上图中的历史作业，可以查看该农机过去所有的作业架次信息，如下图：
 
 图 农机详细作业架次信息
 
-![](media/b24c57a8002414bf4f2527324579ae8f.png)
+<img src="pictures/AGAPP6.jpeg" width="100%"> 
 
 选择右侧作业架次目录，则可以查看每个架次的作业信息，包含作业人、飞行速度、高度、作业轨迹、作业亩数、喷洒药量等信息。
 
@@ -75,13 +75,13 @@
 
 图 云平台作业统计-1
 
-![图片1](media/7926658f1a43af626d3f9735e9a4e220.png)
+<img src="pictures/AGAPP7.jpeg" width="100%"> 
 
 1.  选择统计的起始和终止时间，其他选项直接默认，表示此项不作为限制条件
 
 图 云平台作业统计-2
 
-![](media/8430fe5601f9443ae96e685efde056a1.png)
+<img src="pictures/AGAPP8.jpeg" width="100%"> 
 
 3）点击下一步，可以按照不同的维度来选择X轴和Y轴的属性，一般X轴选择日期，Y轴可以选择作业亩数、作业架次、喷洒药量等纬度，本例子选择作业亩数。
 
@@ -89,7 +89,7 @@
 
 图 云平台作业统计-3
 
-![](media/f3f29b0e449dba711b94dd51e02fa4dd.png)
+<img src="pictures/AGAPP9.jpeg" width="100%"> 
 
 3）点击显示，即可达到如下的一张统计图，即按照每日来统计每架飞机的作业亩
 
@@ -97,19 +97,21 @@
 
 图 云平台作业统计-4
 
-![](media/a0633aa77adb54fc47241793408c0bcc.png)
+<img src="pictures/AGAPP10.jpeg" width="100%"> 
 
 ** 机型管理**
 
-用户可以在此界面添加公司的机型信息，单机新增型号，填写机型信息，确认即可添加成功。
+用户可以在此界面添加公司的机型信息，点击新增型号，填写机型信息，确认即可添加成功。
 
 图 增加机型示意图
+<img src="pictures/AGAPP11.jpeg" width="100%"> 
 
 ** 农机管理**
 
 农机管理界面会列出公司制造的所有农机的ID，以及该农机目前归属的运营人，可以修改农机的机型，制造商账户可以远程锁定农机。
 
 图 农机列表示意图
+<img src="pictures/AGAPP12.jpeg" width="100%"> 
 
 进入历史作业，可以查看该农机自出厂以后的每一个飞行架次的飞行信息。
 
@@ -121,13 +123,13 @@
 
 图 地块管理示意图
 
-![](media/b4be661d97993287ed56633a29af50d8.png)
+<img src="pictures/AGAPP13.jpeg" width="100%"> 
 
 **5.2.7 员工信息**
 
 图 员工管理界面
 
-![](media/32af4b324166dfb8296fc9ea002d85b9.png)
+<img src="pictures/AGAPP14.jpeg" width="100%"> 
 
 在员工管理界面，可以通过添加账号来通过手机号添加员工账号，也可以通过删除按钮来删除员工账号。
 

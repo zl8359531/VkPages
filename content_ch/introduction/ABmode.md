@@ -13,7 +13,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业示意图
 
-![C:\\Users\\Administrator\\Desktop\\图片1.jpg图片1](media/5f45a21c84e596862148a836dbb6a729.jpeg)
+<img src="pictures/AB.jpeg" width="100%"> 
 
 ## AB模式飞行中实时调节
 
@@ -25,13 +25,13 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业航线延长
 
-![](media/be0683d143903dadfb7e78a18dd98e2c.jpeg)
+<img src="pictures/AB延长.png" width="100%"> 
 
 -   AB点之缩短：当飞机飞到距离缩短位置相近的时候，拨动俯仰杆（推或者拉，远端为拉，近段为推），飞机会以2m/s的速度慢慢前进，当快到达延长的位置时，俯仰杆归中，飞机停下，然后开始复制相应的航线，AB点缩短完毕。
 
 图 AB点作业航线缩短
 
-![](media/2cb13da19fcab153799e796f07968569.jpeg)
+<img src="pictures/AB缩短.png" width="100%"> 
 
 2）调节高度
 
@@ -49,7 +49,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业续飞
 
-![C:\\Users\\Administrator\\Desktop\\03.jpg03](media/10ce77a6a8ede09fc6a86ec585ba967a.jpeg)
+<img src="pictures/AB续飞.jpeg" width="100%"> 
 
 ## AB模式避障
 
@@ -59,7 +59,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业手动避障
 
-![](media/48b090228a33e5b52d988d2607a31d8f.jpeg)
+<img src="pictures/AB避障.jpeg" width="100%"> 
 
 2）自动避障
 
@@ -67,7 +67,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业雷达避障
 
-![919c7620bdde8c98f67f3b6dc4db46b](media/5d0d8af91d0de838d82b6b39b3966cfd.png)
+<img src="pictures/ABAT避障.jpeg" width="100%"> 
 
 ## AB-T模式
 
@@ -86,6 +86,6 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB-T模式示意图
 
-![微信图片_20220624181546](media/67fc8eb73c609e1d951c13a45adbb3d6.jpeg)
+<img src="pictures/ABATT.jpeg" width="100%"> 
 
 *视频教程：*[*https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0)

@@ -10,13 +10,13 @@
 
 图 APP主界面
 
-![C:\\Users\\fanxi\\Desktop\\微信图片_20220523112146.jpg微信图片_20220523112146](media/ec2727fb4431575628a127f9e56b5aeb.jpeg)
+<img src="pictures/USER1.jpeg" width="100%"> 
 
 这里的账号角色分为3种：*制造商*、*企业运营人*及*个体运营人*。账号权限如下表所示：
 
 表- 平台角色功能差异表
 
-![](media/1afc0f751ea7a0ea2ea402ed6fb69d83.png)
+<img src="pictures/USER2.jpeg" width="100%"> 
 
 制造商和企业运营人账号必须在网页<http://agcloud.vk-fly.com>注册，个人运营人账号在农服APP-\>我的中注册。。
 
@@ -30,7 +30,7 @@
 
 图 APP我的信息
 
-![微信图片_20220613114828](media/7f96cf68a84ff65331f47f98a17e0db4.png)
+<img src="pictures/USER3.jpeg" width="100%"> 
 
 农服主界面点击我的进入此界面。在我的中可查看，账户信息，作业情况，以及农服版本信息等。
 
@@ -44,19 +44,19 @@
 
 **公告信息：**用户了解最新平台及地面站的信息查看处，例如更新等信息时会在这里给出提示，无论制造商、运营人还是个体都需要随时关注公告。
 
-图 我的个人信息 图 我的设置
+图 我的个人信息 
 
-![](media/ac698701c80345d15c3fb86a375aac27.jpeg)
+<img src="pictures/USER4.jpeg" width="100%"> 
 
 点击 图 APP我的信息 中的②进入作业详情界面：可以查看所有作业轨迹，亩数等，短按某个架次可以进入飞行记录详情页面，长按屏幕可以多选N个架次数据在地图上显示，还可以选择日报或者一段时间内的作业轨迹。
 
-图 我的飞行记录 图 飞行记录详情
+图 我的飞行记录 
 
-![](media/53643a5bb470dff90fea01f35e64ec12.jpeg)
+<img src="pictures/USER5.jpeg" width="100%"> 
 
 图 日报
 
-![微信图片_202206131148285](media/2237fe3eea3c019b70cfaeea8318b5d9.jpeg)
+<img src="pictures/USER6.jpeg" width="100%"> 
 
 ## 管理
 
@@ -64,7 +64,7 @@
 
 图 管理
 
-![微信图片_20220613124919](media/a5a555b832e0486ee939922e3719721d.jpeg)
+<img src="pictures/USER7.jpeg" width="100%"> 
 
 ## 设备管理
 
@@ -76,13 +76,13 @@
 
 图 设备管理
 
-![微信图片_20220613125622](media/40adc675237b9f057af9a9d316d0aa27.jpeg)
+<img src="pictures/USER8.jpeg" width="100%"> 
 
 设备管理列表中可显示此账号所有激活的无人机编号，点击设备编号，进入该飞机的基本详细信息。
 
 图 设备基本详情
 
-![39080f3c1d0545bd234c965eadfa63d](media/8d312522582161815756a631aef585fa.jpeg)
+<img src="pictures/USER9.jpeg" width="100%"> 
 
 **名称**：其中名称可以修改；
 
@@ -104,7 +104,7 @@
 
 图 设备飞行记录
 
-![d0e7ebfbdf32d1eff85da4fffa491bd](media/b86034522080f0dae135c628620478e4.jpeg)
+<img src="pictures/USER10.jpeg" width="100%"> 
 
 选择列表中的飞行记录，进入飞行记录详情界面，可以对飞行轨迹重新播放，回放飞机飞行时的状态。
 
@@ -114,7 +114,7 @@
 
 图 设备激活
 
-![](media/65dae929398dcc4f4e4ca47ddbb38448.png)
+<img src="pictures/USER11.jpeg" width="100%"> 
 
 点击飞机编号，点击确认即可激活，所激活的飞机用哪个运营人账户激活的就属于那个运营人账户。
 
@@ -122,9 +122,6 @@
 
 对于账户权限下面的飞机，通过点击基本详情里面的锁定/解锁按钮，可以远程锁定或者解锁飞机，注意飞机锁定后，即使通电状态下，也不能够进行任何飞行操作。
 
-图 设备远程锁定/解锁示意图
-
-![](media/a4392bc5689c2e1a5630e40d52992bea.png)
 
 ## 设备转让
 
@@ -132,7 +129,7 @@
 
 图 设备转让示意图
 
-![1561540015(1)](media/399e87e8745b851cac51e6e319c8cbb9.png)
+<img src="pictures/USER12.jpeg" width="100%"> 
 
 ## 团队管理
 
@@ -142,9 +139,9 @@
 
 图 团队管理
 
-![](media/7ac9db9d41bfd10408a3b8905fb76238.png)
+<img src="pictures/USER13.jpeg" width="100%"> 
 
-点击列表中的团队，进入团队信息页面，如图12为运营人账号为团队队长，页面上部的成员，任务，作业亩数属于团队总数据。
+点击列表中的团队，进入团队信息页面，如图为运营人账号为团队队长，页面上部的成员，任务，作业亩数属于团队总数据。
 
 **飞控3班**：此为团队名称；
 
@@ -178,7 +175,7 @@
 
 图 员工管理
 
-![](media/a31c3d9566b0ae3c0e0e3d7223dcedc2.png)
+<img src="pictures/USER14.jpeg" width="100%"> 
 
 ## 地块管理
 
@@ -186,13 +183,13 @@
 
 图 地块管理
 
-![6e9c0362ac182f7176829c33d3bca09](media/ec6129601d023ec7d583cec199c0fdf1.jpeg)
+<img src="pictures/USER15.jpeg" width="100%"> 
 
 选中其中一个地块，进入地块的详细信息:
 
 图 地块详情
 
-![319c7780f00b17a965fa216fb8ab927](media/9fbaa0cd4b97c4d20b65e4bb8ac16af1.jpeg)
+<img src="pictures/USER16.jpeg" width="100%"> 
 
 可对地块进行修改；删除；分享；切割。
 
@@ -220,7 +217,7 @@
 
 图 地块作业详情
 
-![1fa346d03d77409ac51e4c5f565d86f](media/11411220c7d7706d1821b90d597c8132.jpeg)
+<img src="pictures/USER17.jpeg" width="100%"> 
 
 ## 任务管理
 
@@ -260,8 +257,8 @@
 
 图 任务管理示意图 1
 
-![任务管理](media/699de30b775ecea34bb0c211ea0619aa.png)![9a2daa167c6e761b4d44ee9e1022589](media/d01e294836849a91eb8bb5a785f36e31.png)
+<img src="pictures/USER18.jpeg" width="50%"> <img src="pictures/USER19.jpeg" width="50%"> 
 
 图 任务管理示意图 2
 
-![任务管理-任务详情](media/df9f25c9bf11d8de620d42e48bdf5a9c.png)![任务管理-任务详情2](media/7919284c462e2c66704a00b9c34eb747.png)
+<img src="pictures/USER20.jpeg" width="50%"> <img src="pictures/USER21.jpeg" width="50%"> 
