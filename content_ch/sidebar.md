@@ -16,7 +16,7 @@
   - [灯语](content_ch/introduction/light.md)
   - [安全概要](content_ch/introduction/sercurity.md)
   - [免责声明](content_ch/introduction/satament.md)
-  - [视频链接]( )
+  - [视频链接](content_ch/introduction/video.md)
 - 传感器校准
   - [遥控器校准](content_ch/introduction/calibration/remote_calib.md)
   - [飞行校准](content_ch/introduction/calibration/fly_calib.md)
