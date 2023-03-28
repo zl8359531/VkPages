@@ -56,8 +56,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 # 飞行设置
 
-
-<img src="pictures/APPPAR5.png" width="50%">  <img src="pictures/APPPAR6.jpeg" width="50%"> 
+<img src="pictures/APPPAR5.png" width="50%" height="50%">
 
 在飞行设置中，用户可以设置：
 
@@ -174,7 +173,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-算法参数
 
-<img src="pictures/APPPAR14.jpeg" width="50%"> 
+<img src="pictures/APPPAR14.jpeg" width="50%" height="50%"> 
 
 **噪声抑制**：抑制飞机机体的震动，震动越大的飞机，需要设置的数值越高。此选项的设置需要跟飞机震动情况匹配。选取依据是在基本能飞的参数下，尝试只改变此参数，以飞行状体为依据，选取一个合适的等级。
 
@@ -192,7 +191,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-安装设置
 
-<img src="pictures/APPPAR15.jpeg" width="50%"> <img src="pictures/APPPAR16.jpeg" width="50%"> 
+<img src="pictures/APPPAR15.jpeg" width="50%" height="50%"> <img src="pictures/APPPAR16.jpeg" width="50%" height="50%"> 
 
 **飞控安装方向**：设置飞控的安装方向，以飞控箭头为准
 
@@ -208,7 +207,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-飞行校准
 
-<img src="pictures/APPPAR17.jpeg" width="50%"> 
+<img src="pictures/APPPAR17.jpeg" width="50%" height="70%"> 
 
 **水平校准**：当飞控水平出现偏差时，做一次水平校准，一般飞控出厂会校准，客户无需校准。
 
