@@ -8,7 +8,7 @@ APP地址：<http://cloud.jiagutech.com/upgrade/vk-ags2.html>
 
 图 APP安装二维码
 
-   <img src="pictures/APP二维码.png" width="60%"> 
+   <img src="pictures/APP二维码.png" width="50%" height="10%"> 
 
 安装完成后，个体运营人直接在APP上面进行新用户注册即可完成。
 
