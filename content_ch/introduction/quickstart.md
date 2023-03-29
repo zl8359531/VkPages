@@ -1,7 +1,7 @@
 
 
 # 接口定义
-<img src="pictures/接口说明.jpeg" width="100%"> 
+<img src="../../pictures/接口说明.jpeg" width="100%"> 
 
 | **V9-FMU端口**   | **功能说明**               | **V9-PMU端口** | **功能说明**                |
 |------------------|----------------------------|----------------|-----------------------------|
@@ -18,6 +18,14 @@
 |                  |                            | **CAN1\~4**    | 防地/避障等CAN设备(12v输出) |
 |                  |                            | **LED指示灯**  | LED模块                     |
 |                  |                            | **COM**        | 备用串口                    |
+
+|**port/drone type**| **Default** | **Double-pump**  | **Centrifugal**|**Spreader**|
+|-------------------|-------------|------------------|----------------|------------|
+|**P1**             | PUMP        |pump front        | PUMP           | NONE       |
+|**P2**             | PUMP        |pump rear         | PUMP           | NONE       |
+|**A1**             | NONE        |Centrifugal front | Centrifugal    | VALVE servo |
+|**A2**             | NONE        |Centrifugal rear  | Centrifugal    | SPEED motor |
+
 
 # 主控器安装
 
