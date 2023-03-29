@@ -39,7 +39,7 @@
 -   双天线测向RTK模块的两个天线必须是正前后（1号后，2号前）、正左右（1号左2号右）安装，并且在APP上对应设置正确。模块标有ANT1的为1号天线，标有ANT2的为2号天线。
 -   两个天线之间的距离大于40cm
 
-<img src="pictures/RTK安装.jpeg" width="70%"> 
+<img src="pictures/RTK安装.jpeg" width="100%"> 
 
 # 雷达安装
 

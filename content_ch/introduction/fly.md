@@ -9,7 +9,7 @@
 
 图 遥控器解锁/加锁示意图
 
-<img src="pictures/遥控器解锁.png" width="60%"> 
+<img src="pictures/遥控器解锁.png" width="100%"> 
 
 
 #  参数设置（初步）
@@ -48,7 +48,7 @@
 
 # 作业任务界面
 
-<img src="pictures/手动页面.jpeg" width="100%"> 
+<img src="pictures/手动页面.jpeg" width="70%"> 
 
 顶部状态栏显示无人机当前状态。
 
