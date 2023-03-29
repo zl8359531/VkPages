@@ -1,6 +1,10 @@
+
+
+*植保平台视频：*[*https://space.bilibili.com/493843514/?spm_id_from=333.999.0.0*](https://space.bilibili.com/493843514/?spm_id_from=333.999.0.0)
+
 ## 植保云平台使用说明
 
-** 用户注册**
+# 用户注册
 
 数据管理平台有如下用户权限：
 
@@ -11,26 +15,23 @@
 
 1.  首先登陆h[ttp://agcloud.vk-fly.com](http://agcloud.vk-fly.com/) 点击注册，如下图红框所示：
 
-<img src="pictures/AGAPP2.png" width="100%"> 
+<img src="pictures/AGAPP2.png" width="60%"> 
 
 2）在注册界面根据自身的需求，真实填写注册信息，然后提交即可完成注册。等待平台维护人员的审核。
 
 图 注册详细信息
 
-<img src="pictures/AGAPP1.jpeg" width="100%"> 
-
-**  
-**
+<img src="pictures/AGAPP1.png" width="60%"> 
 
 **功能介绍**
 
 下面以制造商账户为示例，介绍植保数据管理系统的功能。
 
-**主体界面**
+# 主体界面
 
 图 植保云平台主界面
 
-<img src="pictures/AGAPP3.jpeg" width="100%"> 
+<img src="pictures/AGAPP3.png" width="60%"> 
 
 -   实时监控：可以在地图上实时监控该账户下所有作业设备的实时在线作业情况；
 -   数据统计：进行作业统计，已图表化显示；
@@ -43,11 +44,11 @@
 -   *作业管理：暂无实现功能；*
 -   员工管理：可以添加删除本公司员工，员工账号也可以监视本公司设备作业情况，但不具备编辑功能；
 
-**实时监控**
+# 实时监控
 
 图 云平台实时监控界面
 
-<img src="pictures/AGAPP4.jpeg" width="100%"> 
+<img src="pictures/AGAPP4.png" width="60%"> 
 
 实时监控界面显示了本公司当前在线作业的所有农机设备在地图上的位置，并在上方的显示栏显示了本账号下所有的农机数量、在线农机数量、作业总时间、作业总亩数等信息。
 
@@ -55,17 +56,17 @@
 
 图 农机详细信息图
 
-<img src="pictures/AGAPP5.jpeg" width="100%"> 
+<img src="pictures/AGAPP5.png" width="60%"> 
 
 通过单击上图中的历史作业，可以查看该农机过去所有的作业架次信息，如下图：
 
 图 农机详细作业架次信息
 
-<img src="pictures/AGAPP6.jpeg" width="100%"> 
+<img src="pictures/AGAPP6.png" width="60%"> 
 
 选择右侧作业架次目录，则可以查看每个架次的作业信息，包含作业人、飞行速度、高度、作业轨迹、作业亩数、喷洒药量等信息。
 
-**数据统计**
+# 数据统计
 
 数据统计功能提供了按照机型、账号、地域不同的纬度来进行统计功能，并可导出CVS数据统计表。
 
@@ -75,13 +76,13 @@
 
 图 云平台作业统计-1
 
-<img src="pictures/AGAPP7.jpeg" width="100%"> 
+<img src="pictures/AGAPP7.png" width="60%"> 
 
 1.  选择统计的起始和终止时间，其他选项直接默认，表示此项不作为限制条件
 
 图 云平台作业统计-2
 
-<img src="pictures/AGAPP8.jpeg" width="100%"> 
+<img src="pictures/AGAPP8.png" width="60%"> 
 
 3）点击下一步，可以按照不同的维度来选择X轴和Y轴的属性，一般X轴选择日期，Y轴可以选择作业亩数、作业架次、喷洒药量等纬度，本例子选择作业亩数。
 
@@ -89,7 +90,7 @@
 
 图 云平台作业统计-3
 
-<img src="pictures/AGAPP9.jpeg" width="100%"> 
+<img src="pictures/AGAPP9.png" width="60%"> 
 
 3）点击显示，即可达到如下的一张统计图，即按照每日来统计每架飞机的作业亩
 
@@ -97,39 +98,39 @@
 
 图 云平台作业统计-4
 
-<img src="pictures/AGAPP10.jpeg" width="100%"> 
+<img src="pictures/AGAPP10.png" width="60%"> 
 
-** 机型管理**
+# 机型管理
 
 用户可以在此界面添加公司的机型信息，点击新增型号，填写机型信息，确认即可添加成功。
 
 图 增加机型示意图
-<img src="pictures/AGAPP11.jpeg" width="100%"> 
+<img src="pictures/AGAPP11.png" width="60%"> 
 
-** 农机管理**
+# 农机管理
 
 农机管理界面会列出公司制造的所有农机的ID，以及该农机目前归属的运营人，可以修改农机的机型，制造商账户可以远程锁定农机。
 
 图 农机列表示意图
-<img src="pictures/AGAPP12.jpeg" width="100%"> 
+<img src="pictures/AGAPP12.png" width="60%"> 
 
 进入历史作业，可以查看该农机自出厂以后的每一个飞行架次的飞行信息。
 
 进入日志，可以查看用户上传的飞行日志，供故障分析使用。
 
-**5.2.6 地块管理**
+# 地块管理
 
 制造商账户可以查看本账号以及本公司员工账号所测量的所有地块信息，员工账号亦具备同样的功能权限。
 
 图 地块管理示意图
 
-<img src="pictures/AGAPP13.jpeg" width="100%"> 
+<img src="pictures/AGAPP13.png" width="60%"> 
 
-**5.2.7 员工信息**
+# 员工信息
 
 图 员工管理界面
 
-<img src="pictures/AGAPP14.jpeg" width="100%"> 
+<img src="pictures/AGAPP14.png" width="60%"> 
 
 在员工管理界面，可以通过添加账号来通过手机号添加员工账号，也可以通过删除按钮来删除员工账号。
 
@@ -137,4 +138,3 @@
 
 关于植保数据管理平台，建议浏览视频教程，更为直接详细。
 
-*植保平台视频：*[*https://space.bilibili.com/493843514/?spm_id_from=333.999.0.0*](https://space.bilibili.com/493843514/?spm_id_from=333.999.0.0)

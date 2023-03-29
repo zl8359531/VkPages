@@ -1,8 +1,10 @@
+
+*视频教程：*[*https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0)
 ## AB点模式
 
 AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模式下支持雷达仿地飞行，支持手动避障，支持前后雷达自动避障，支持飞行过程中调节AB航线长度，支持手动调节高度（油门中位默认定高飞行）及机头方向。
 
-## AB点作业流程
+# AB点作业流程
 
 -   重新AB打点，点击APP手动作业界面内的清除AB点按钮，清除上次的AB点信息，保证飞机内部不存在AB点（若AB点存在，LED会有紫灯闪烁）。
 -   手动起飞，飞向第一个起始点，在GPS悬停模式下AB打点通道（CH6）拨码开关从待命拨到A点此时记录A点坐标，A点记录成功后APP会播报A点记录成功，LED灯会1闪紫灯。
@@ -13,9 +15,9 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业示意图
 
-<img src="pictures/AB.jpeg" width="100%"> 
+<img src="pictures/AB.jpeg" width="60%"> 
 
-## AB模式飞行中实时调节
+# AB模式飞行中实时调节
 
 1）调节垄长
 
@@ -41,7 +43,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 飞行过程中，方向中位机头锁定飞行，方向左推则机头左转，方向右推则机头右转。
 
-## AB模式续飞
+# AB模式续飞
 
 当AB模式飞行过程中，当前架次药量低或电压低返航，重新加药换电后需要续飞上次AB点。则按照如下步骤执行AB断点续飞。
 
@@ -49,9 +51,9 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业续飞
 
-<img src="pictures/AB续飞.jpeg" width="100%"> 
+<img src="pictures/AB续飞.jpeg" width="60%"> 
 
-## AB模式避障
+# AB模式避障
 
 1）手动避障
 
@@ -59,7 +61,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业手动避障
 
-<img src="pictures/AB避障.jpeg" width="100%"> 
+<img src="pictures/AB避障.png" width="100%"> 
 
 2）自动避障
 
@@ -67,13 +69,13 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业雷达避障
 
-<img src="pictures/ABAT避障.jpeg" width="100%"> 
+<img src="pictures/ABAT避障.png" width="100%"> 
 
-## AB-T模式
+# AB-T模式
 
 为了方便不是直角的田地使用AB模式作业，在AB模式的基础上，添加了AB-T模式。可通过打点时调整AB点的角度，改变飞机航线，适应更多的复杂地块。
 
-## AB-T作业流程
+# AB-T作业流程
 
 -   重新AB打点，点击APP手动作业界面内的清除AB点按钮，清除上次的AB点信息，保证飞机内部不存在AB点（若AB点存在，LED会有紫灯闪烁）。
 -   手动起飞，飞向第一个起始点，在GPS悬停模式下AB打点通道（CH6）拨码开关从待命拨到A点此时记录A点坐标，A点记录成功后APP会播报A点记录成功，LED灯会1闪紫灯。
@@ -86,6 +88,4 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB-T模式示意图
 
-<img src="pictures/ABATT.jpeg" width="100%"> 
-
-*视频教程：*[*https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1yS4y1N718?spm_id_from=333.999.0.0)
+<img src="pictures/ABATT.png" width="70%"> 

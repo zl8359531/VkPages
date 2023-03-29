@@ -10,13 +10,13 @@
 
 图 APP主界面
 
-<img src="pictures/USER1.jpeg" width="100%"> 
+<img src="pictures/USER1.jpeg" width="60%"> 
 
 这里的账号角色分为3种：*制造商*、*企业运营人*及*个体运营人*。账号权限如下表所示：
 
 表- 平台角色功能差异表
 
-<img src="pictures/USER2.jpeg" width="100%"> 
+<img src="pictures/USER2.png" width="70%"> 
 
 制造商和企业运营人账号必须在网页<http://agcloud.vk-fly.com>注册，个人运营人账号在农服APP-\>我的中注册。。
 
@@ -30,7 +30,7 @@
 
 图 APP我的信息
 
-<img src="pictures/USER3.jpeg" width="100%"> 
+<img src="pictures/USER3.png" width="60%"> 
 
 农服主界面点击我的进入此界面。在我的中可查看，账户信息，作业情况，以及农服版本信息等。
 
@@ -46,17 +46,17 @@
 
 图 我的个人信息 
 
-<img src="pictures/USER4.jpeg" width="100%"> 
+<img src="pictures/USER4.png" width="60%"> 
 
 点击 图 APP我的信息 中的②进入作业详情界面：可以查看所有作业轨迹，亩数等，短按某个架次可以进入飞行记录详情页面，长按屏幕可以多选N个架次数据在地图上显示，还可以选择日报或者一段时间内的作业轨迹。
 
 图 我的飞行记录 
 
-<img src="pictures/USER5.jpeg" width="100%"> 
+<img src="pictures/USER5.png" width="60%"> 
 
 图 日报
 
-<img src="pictures/USER6.jpeg" width="100%"> 
+<img src="pictures/USER6.jpeg" width="60%"> 
 
 ## 管理
 
@@ -64,7 +64,7 @@
 
 图 管理
 
-<img src="pictures/USER7.jpeg" width="100%"> 
+<img src="pictures/USER7.jpeg" width="60%"> 
 
 ## 设备管理
 
@@ -76,13 +76,13 @@
 
 图 设备管理
 
-<img src="pictures/USER8.jpeg" width="100%"> 
+<img src="pictures/USER8.jpeg" width="60%"> 
 
 设备管理列表中可显示此账号所有激活的无人机编号，点击设备编号，进入该飞机的基本详细信息。
 
 图 设备基本详情
 
-<img src="pictures/USER9.jpeg" width="100%"> 
+<img src="pictures/USER9.jpeg" width="60%"> 
 
 **名称**：其中名称可以修改；
 
@@ -104,7 +104,7 @@
 
 图 设备飞行记录
 
-<img src="pictures/USER10.jpeg" width="100%"> 
+<img src="pictures/USER10.jpeg" width="60%"> 
 
 选择列表中的飞行记录，进入飞行记录详情界面，可以对飞行轨迹重新播放，回放飞机飞行时的状态。
 
@@ -114,7 +114,7 @@
 
 图 设备激活
 
-<img src="pictures/USER11.jpeg" width="100%"> 
+<img src="pictures/USER11.png" width="60%"> 
 
 点击飞机编号，点击确认即可激活，所激活的飞机用哪个运营人账户激活的就属于那个运营人账户。
 
@@ -129,7 +129,7 @@
 
 图 设备转让示意图
 
-<img src="pictures/USER12.jpeg" width="100%"> 
+<img src="pictures/USER12.png" width="60%"> 
 
 ## 团队管理
 
@@ -139,7 +139,7 @@
 
 图 团队管理
 
-<img src="pictures/USER13.jpeg" width="100%"> 
+<img src="pictures/USER13.png" width="60%"> 
 
 点击列表中的团队，进入团队信息页面，如图为运营人账号为团队队长，页面上部的成员，任务，作业亩数属于团队总数据。
 
@@ -175,7 +175,7 @@
 
 图 员工管理
 
-<img src="pictures/USER14.jpeg" width="100%"> 
+<img src="pictures/USER14.png" width="100%"> 
 
 ## 地块管理
 
@@ -183,13 +183,13 @@
 
 图 地块管理
 
-<img src="pictures/USER15.jpeg" width="100%"> 
+<img src="pictures/USER15.jpeg" width="60%"> 
 
 选中其中一个地块，进入地块的详细信息:
 
 图 地块详情
 
-<img src="pictures/USER16.jpeg" width="100%"> 
+<img src="pictures/USER16.jpeg" width="60%"> 
 
 可对地块进行修改；删除；分享；切割。
 
@@ -217,7 +217,7 @@
 
 图 地块作业详情
 
-<img src="pictures/USER17.jpeg" width="100%"> 
+<img src="pictures/USER17.jpeg" width="70%"> 
 
 ## 任务管理
 
@@ -257,8 +257,8 @@
 
 图 任务管理示意图 1
 
-<img src="pictures/USER18.jpeg" width="50%"> <img src="pictures/USER19.jpeg" width="50%"> 
+<img src="pictures/USER18.jpeg" width="60%"> 
 
 图 任务管理示意图 2
 
-<img src="pictures/USER20.jpeg" width="50%"> <img src="pictures/USER21.jpeg" width="50%"> 
+<img src="pictures/USER19.jpeg" width="60%"> 

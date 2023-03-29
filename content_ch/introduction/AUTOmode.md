@@ -1,12 +1,16 @@
 ## 自主航线模式
 
-### 地块测绘
+*地块规划与作业教程：*[*https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0)
+
+*千 寻 连 接 教 程：*[*https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0)
+
+# 地块测绘
 
 自动作业前，需要测绘出作业的地块边界，以及中间障碍信息。点击测绘进入测绘页面：
 
 图 测绘地块类型选择
 
-<img src="pictures/AUTO1.jpeg" width="100%"> 
+<img src="pictures/AUTO1.jpeg" width="50%"> 
 
 选择要测绘的地类型:
 
@@ -18,55 +22,45 @@
 
 下面以打点器为例讲述如何进行高精度RTK地块测绘。
 
-1.  首先进入遥控器设置页面，然后连接千寻服务；
+1) 首先进入遥控器设置页面，然后连接千寻服务；
 
 图 开启千寻服务
 
-<img src="pictures/AUTO2.jpeg" width="100%"> 
+<img src="pictures/AUTO2.jpeg" width="50%"> 
 
-1.  进入打点器页面，搜索打点器，连接打点器蓝牙，此时如果连接成功，会显示打点器的定位信息，如下图：
-
-图 打点器定位示意图
-
-<img src="pictures/AUTO3.jpeg" width="100%"> 
-
-1.  返回主界面，然后进入测绘界面，选择*多边形地块/自由航线*，然后点击图中右下角打点器选择按钮，选择打点器，选择相应的打点设备，点击确定，APP会自动连接设置过的打点器蓝牙，连接成功后打点器的定位状态和位置会显示在地图上。
+2)进入测绘界面，选择*多边形地块/自由航线*，然后点击图中右下角打点器选择按钮，选择打点器，选择相应的打点设备，点击确定，APP会自动连接设置过的打点器蓝牙，连接成功后打点器的定位状态和位置会显示在地图上。
 
 图 打点模式选择
 
-<img src="pictures/AUTO4.jpeg" width="100%"> 
+<img src="pictures/AUTO4.jpeg" width="50%"> 
 
-4）点选择黄框内①打点类型-边界点。②记录该点。在需要打点的边界点击②打点，直到所有边界点记录完成，中途打点位置错误时可点击撤销按钮，撤销上一个点重新打点。
+3）点选择黄框内①打点类型-边界点。②记录该点。在需要打点的边界点击②打点，直到所有边界点记录完成，中途打点位置错误时可点击撤销按钮，撤销上一个点重新打点。
 
 图 多边形地块打点
 
-<img src="pictures/AUTO7.jpeg" width="100%"> 
+<img src="pictures/AUTO7.jpeg" width="50%"> 
 
-5）测绘完成多边形的边界后，如果需要，可以在多边形内部进行障碍物打点，单击打点类型按钮，进入到障碍点测绘模式。同样点击打点按钮，记录障碍物边界，**障碍物边界记录完成后需要点击结束障碍按钮，完成障碍物的区域的测绘**。
+4）测绘完成多边形的边界后，如果需要，可以在多边形内部进行障碍物打点，单击打点类型按钮，进入到障碍点测绘模式。同样点击打点按钮，记录障碍物边界，**障碍物边界记录完成后需要点击结束障碍按钮，完成障碍物的区域的测绘**。
 
 图 障碍物打点切换示意图
 
-<img src="pictures/AUTO5.jpeg" width="100%"> 
+<img src="pictures/AUTO5.jpeg" width="50%"> 
 
 1.  如需测绘电线杆/树木等圆形障碍物，可继续通过点击下方打点类型按钮切换到电线杆障碍物测绘模式，然后将打点器放置在障碍物中心，点击打点按钮，即可自动的生成一个多边形的障碍区域，右下角尺子图标可自由设置电线杆障碍区域的半径大小。
 
 图 杆体障碍物测绘示意图
 
-<img src="pictures/AUTO6.jpeg" width="100%"> 
+<img src="pictures/AUTO6.jpeg" width="50%"> 
 
 1.  完成所有测绘后，将打点类型切换到边界点，点击上传按钮，可将本次测绘的地块信息、障碍物信息保存并同步到植保网络管理平台，供后续作业使用，如下图所示。
 
 图 地块上传服务器
 
-<img src="pictures/AUTO8.jpeg" width="100%"> 
+<img src="pictures/AUTO8.jpeg" width="50%"> 
 
 **至此，测绘工作完成。**
 
-*地块规划与作业教程：*[*https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0)
-
-*千 寻 连 接 教 程：*[*https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0)
-
-## 航线规划
+# 航线规划
 
 地块测绘完成后，需要对地块进行编辑，生成航线，航线编辑主要可如下属性：
 
@@ -77,13 +71,13 @@
 
 图 地块选择
 
-<img src="pictures/AUTO9.jpeg" width="100%"> 
+<img src="pictures/AUTO9.jpeg" width="50%"> 
 
 -   进入地块规划界面后，可以设置地块规划相关的航线方向，缩边距离，垄距宽度，起始点位置等。
 
 图 地块规划参数设置
 
-<img src="pictures/AUTO10.jpeg" width="100%"> 
+<img src="pictures/AUTO10.jpeg" width="50%"> 
 
 -   选择不同的边（1号边/2号边……），所规划的航线将与被选择的边（橙标亮）平行。
 -   每条边都可以设置一个安全距离，安全距离可以通过加减按钮，或直接输入数字来设置。
@@ -103,7 +97,7 @@
 
 图 智能里程开启示意图
 
-<img src="pictures/AUTO15.jpeg" width="100%"> 
+<img src="pictures/AUTO15.jpeg" width="50%"> 
 
 -   点击安全距离按钮，可统一设置安全边界距离，以及障碍物边界安全距离。边界安全距离表示航线内缩距离，障碍物边界安全距离表示障碍物附近航线外扩距离。
 
@@ -113,7 +107,7 @@
 
 图 删除航点示意图
 
-<img src="pictures/AUTO12.jpeg" width="50%"> <img src="pictures/AUTO13.jpeg" width="50%"> 
+<img src="pictures/AUTO12.png" width="50%"> 
 
 **3）设置辅助起飞点降落点**
 
@@ -121,9 +115,9 @@
 
 图 设置辅助点
 
-<img src="pictures/AUTO14.jpeg" width="100%"> 
+<img src="pictures/AUTO14.png" width="50%"> 
 
-### 3.2.3 自主飞行
+# 自主飞行
 
 航线规划完成后，点击下一步![](media/47b52b9eac87f78862ba41067816e0fb.png)按钮，结束规划，进入航线作业界面，如下图。
 
@@ -137,7 +131,7 @@
 
 图 航线重排示意图
 
-<img src="pictures/AUTO16.jpeg" width="100%"> <img src="pictures/AUTO17.jpeg" width="100%"> 
+<img src="pictures/AUTO16.png" width="100%"> 
 
 移动航线：对航线进行整体移动，对于地块整体有偏差的，可使用航线移动来调整航线偏差。
 
@@ -158,9 +152,9 @@
 
 图 继续上次作业示意图
 
-<img src="pictures/AUTO18.jpeg" width="100%"> 
+<img src="pictures/AUTO18.jpeg" width="50%"> 
 
-### 3.2.4 自主飞行--果树模式
+# 自主飞行--果树模式
 
 果树模式是通过测绘飞机（或使用飞机打点）将每棵树的经度、纬度、高度（分相对高度和海拔高度）测量出来，规划成航线。其中可设定航线是否喷洒，航点悬停喷洒时间。也可提前测绘地块生成可使用的航线后保存成.cvs或.kml文件导入APP使用。
 
@@ -168,13 +162,13 @@
 
 图 自由航线测试选择
 
-<img src="pictures/AUTO19.jpeg" width="100%"> 
+<img src="pictures/AUTO19.jpeg" width="50%"> 
 
 1.  对要进行飞行的路径进行打点。自由航线无人机会按照测绘的路径进行飞行。
 2.  进入自动作业界面，选择测绘完成的自由航线，设置自由航线的喷洒开关，悬停时间等参数，设置完成后，上传航线，执行作业。
 
 图 自由航线测绘示意图
 
-<img src="pictures/ABATT.jpeg" width="100%"> 
+<img src="pictures/AUTO20.jpeg" width="50%"> 
 
 *果树模式视频教程：*[*https://www.bilibili.com/video/BV1M44y1V7A2?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1M44y1V7A2?spm_id_from=333.999.0.0)
