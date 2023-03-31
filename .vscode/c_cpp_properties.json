@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Arm",
+            "includePath": [
+                "${workspaceRoot}/**"
+            ],
+            "defines": [
+                "STM32F103xB",
+                "USE_HAL_DRIVER"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:/arm-gcc/bin/arm-none-eabi-gcc.exe"
+        }
+    ],
+    "version": 4
+}
