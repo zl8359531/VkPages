@@ -257,8 +257,8 @@
 
 图 任务管理示意图 1
 
-<img src="../../pictures/USER18.png" width="50%" height="250"> 
+<img src="pictures/USER18.png" width="50%" height="250"> 
 
 图 任务管理示意图 2
 
-<img src="../../pictures/USER19.png" width="50%" height="250"> 
+<img src="pictures/USER19.png" width="50%" height="250"> 
