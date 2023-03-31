@@ -19,12 +19,12 @@
 |                  |                            | **LED指示灯**  | LED模块                     |
 |                  |                            | **COM**        | 备用串口                    |
 
-|**port/drone type**| **Default** | **Double-pump**  | **Centrifugal**|**Spreader**|
+|**接口 /机型      **| **默认** | **双水泵**  | **离心喷头**|**播撒**|
 |-------------------|-------------|------------------|----------------|------------|
-|**P1**             | PUMP        |pump front        | PUMP           | NONE       |
-|**P2**             | PUMP        |pump rear         | PUMP           | NONE       |
-|**A1**             | NONE        |Centrifugal front | Centrifugal    | VALVE servo |
-|**A2**             | NONE        |Centrifugal rear  | Centrifugal    | SPEED motor |
+|**P1**             | 水泵        |水泵前        | 水泵           | 空       |
+|**P2**             | 水泵        |水泵后         | 水泵           | 空       |
+|**A1**             | 水泵        |离心喷头前 | 离心喷头    | 阀门 |
+|**A2**             | 水泵        |离心喷头后  | 离心喷头    | 转盘 |
 
 
 # 主控器安装
@@ -47,7 +47,7 @@
 -   双天线测向RTK模块的两个天线必须是正前后（1号后，2号前）、正左右（1号左2号右）安装，并且在APP上对应设置正确。模块标有ANT1的为1号天线，标有ANT2的为2号天线。
 -   两个天线之间的距离大于40cm
 
-<img src="pictures/RTK安装.jpeg" width="100%"> 
+<img src="pictures/RTK安装.png" width="50%" height="350"> 
 
 # 雷达安装
 

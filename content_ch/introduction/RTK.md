@@ -22,7 +22,7 @@ RTK模块安装注意事项：
 
 图 RTK基站信息图
 
-<img src="pictures/RTKP1.png" width="60%"> 
+<img src="pictures/RTKP1.png" width="30%" height="300"> 
 
 移动基站使用注意事项：
 

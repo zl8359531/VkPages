@@ -56,7 +56,7 @@
 
 图 地块上传服务器
 
-<img src="pictures/AUTO8.jpeg" width="50%"> 
+<img src="pictures/AUTO8.png" width="60%"> 
 
 **至此，测绘工作完成。**
 
@@ -123,7 +123,7 @@
 
 图 自动作业界面
 
-<img src="pictures/AUTO11.jpeg" width="100%"> 
+<img src="pictures/AUTO11.jpeg" width="50%"> 
 
 检查航线正常后，点击参数设置来设置航线的*高度/速度/亩用量*，然后上传航线（**切记开始作业前一定要上传航线**），然后起飞等待无人机自动起飞，起飞后点击作业无人机开始按照预定航线作业。
 
@@ -131,7 +131,7 @@
 
 图 航线重排示意图
 
-<img src="pictures/AUTO16.png" width="100%"> 
+<img src="pictures/AUTO16.png" width="60%"> 
 
 移动航线：对航线进行整体移动，对于地块整体有偏差的，可使用航线移动来调整航线偏差。
 

@@ -129,7 +129,7 @@
 
 图 设备转让示意图
 
-<img src="pictures/USER12.png" width="60%"> 
+<img src="pictures/USER12.png" width="50%" height="200"> 
 
 # 团队管理
 
@@ -257,8 +257,8 @@
 
 图 任务管理示意图 1
 
-<img src="pictures/USER18.jpeg" width="60%"> 
+<img src="../../pictures/USER18.png" width="50%" height="250"> 
 
 图 任务管理示意图 2
 
-<img src="pictures/USER19.jpeg" width="60%"> 
+<img src="../../pictures/USER19.png" width="50%" height="250"> 

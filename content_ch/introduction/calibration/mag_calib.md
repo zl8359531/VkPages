@@ -5,10 +5,10 @@
 
 -   连接遥控器，进入APP中飞行校准页面，点击地磁校准按钮，LED指示灯变为绿色，进入水平校准模式。
 
-<img src="pictures/MAG1.png" width="100%"> 
+<img src="pictures/MAG1.png" width="30%" height="250"> 
 
 -   将飞行器水平旋转校准，直到LED指示灯变为蓝色，进入竖直校准模式。
 
-<img src="pictures/MAG2.png" width="100%"> 
+<img src="pictures/MAG2.png" width="30%" height="250"> 
 
 -   机头垂直朝上然后旋转，LED指示蓝灯熄灭变为闪烁校准成功，LED指示灯变为红灯长亮则校准失败，需重新校准。

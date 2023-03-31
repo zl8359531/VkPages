@@ -207,7 +207,7 @@ USB连接模式下，直接用USB线（遥控器自带的连接线）与遥控�
 
 图 高级设置-飞行校准
 
-<img src="pictures/APPPAR17.png" width="50%"> 
+<img src="pictures/APPPAR17.png" width="25%" height="300"> 
 
 **水平校准**：当飞控水平出现偏差时，做一次水平校准，一般飞控出厂会校准，客户无需校准。
 

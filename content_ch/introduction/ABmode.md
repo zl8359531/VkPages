@@ -15,7 +15,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业示意图
 
-<img src="pictures/AB.jpeg" width="60%"> 
+<img src="pictures/AB.jpeg" width="70%"> 
 
 # AB模式飞行中实时调节
 
@@ -69,7 +69,7 @@ AB模式在用户定义A点及B点后，自动复制AB航线进行飞行。AB模
 
 图 AB点作业雷达避障
 
-<img src="pictures/ABAT避障.png" width="100%"> 
+<img src="pictures/ABAT避障.png" width="60%" height="250"> 
 
 # AB-T模式
 

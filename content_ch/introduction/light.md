@@ -35,7 +35,7 @@
 
 # 移动基站LED灯语
 
-<img src="pictures/LIGHT1.png" width="60%"> 
+<img src="pictures/LIGHT1.png" width="50%" height="350"> 
 
 BT：蓝牙指示灯，快闪表示蓝牙未连接；长亮表示基站蓝牙和APP链接正常。
 
