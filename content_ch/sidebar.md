@@ -8,14 +8,14 @@
   - [初步使用](content_ch/introduction/app/appdownload.md)
   - [初步飞行](content_ch/introduction/fly.md)
 - <details> 
-  - <summary>飞控说明</summary>
+   <summary>飞控说明</summary> 
 
     - [AB模式](content_ch/introduction/ABmode.md)
     - [自主作业模式](content_ch/introduction/AUTOmode.md)
     - [RTK说明](content_ch/introduction/RTK.md)
     - [灯语](content_ch/introduction/light.md)
   - <details> 
-    - <summary>传感器校准</summary>
+     <summary>传感器校准</summary>
 
       - [遥控器校准](content_ch/introduction/calibration/remote_calib.md)
       - [飞行校准](content_ch/introduction/calibration/fly_calib.md)
@@ -23,19 +23,18 @@
       - [流量计校准](content_ch/introduction/calibration/flow_calib.md)
       - [电机检查](content_ch/introduction/calibration/motor_calib.md)
       </code></pre> 
-      </details>
+    </details>
  </code></pre> 
  </details>
 
 - <details> 
-  <summary>APP说明</summary>
+  <summary>APP说明</summary>  
 
     - [APP参数说明](content_ch/introduction/APPpar.md)
     - [APP管理设置](content_ch/introduction/APPuser.md)
     - [植保平台](content_ch/introduction/AGplatform.md)
     </code></pre> 
   </details>
-
 - [安全概要](content_ch/introduction/sercurity.md)
 - [免责声明](content_ch/introduction/satament.md)
 - [视频链接](content_ch/introduction/video.md)
