@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-<style type="">
+<style type="text/css">
 details summary::-webkit-details-marker { display:none; } 去三角形
 summary{outline:none;}去边框
 </style>
@@ -33,3 +33,7 @@ summary{outline:none;}去边框
 - [<font size=3 face="黑体">视频链接</font>](content_ch/introduction/video.md)
 
 
+<style type="text/css">
+details summary::-webkit-details-marker { display:none; } 去三角形
+summary{outline:none;}去边框
+</style>
