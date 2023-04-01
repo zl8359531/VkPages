@@ -71,4 +71,5 @@ https://www.bilibili.com/video/BV1ge4y1y7TQ?spm_id_from=333.999.0.0&vd_source=48
 
 https://www.bilibili.com/video/BV1Be4y1b7aY/?spm_id_from=333.999.0.0
 
-<video src="https://www.bilibili.com/video/BV1Be4y1b7aY/?spm_id_from=333.999.0.0" controls>
+<video src="https://www.bilibili.com/video/BV1Be4y1b7aY?t=22.6" controls></video>
+
