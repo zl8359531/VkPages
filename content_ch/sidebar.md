@@ -2,10 +2,10 @@
 
 - [简介](content_ch/)
 
-- [连接说明](content_ch/introduction/connect.md)
-- [设备安装](content_ch/introduction/quickstart.md)
-- [初步使用](content_ch/introduction/app/appdownload.md)
-- [初步飞行](content_ch/introduction/fly.md)
+- ▶[连接说明](content_ch/introduction/connect.md)
+- ▶[设备安装](content_ch/introduction/quickstart.md)
+- ▶[初步使用](content_ch/introduction/app/appdownload.md)
+- ▶[初步飞行](content_ch/introduction/fly.md)
 - <details> 
   <summary>飞控说明</summary> 
 
