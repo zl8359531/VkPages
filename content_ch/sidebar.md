@@ -13,7 +13,7 @@
     - [自主作业模式](content_ch/introduction/AUTOmode.md)
     - [RTK说明](content_ch/introduction/RTK.md)
     - [灯语](content_ch/introduction/light.md)
-    <details> 
+  - <details> 
      <summary>传感器校准</summary>
 
       - [遥控器校准](content_ch/introduction/calibration/remote_calib.md)
@@ -21,15 +21,12 @@
       - [磁校准](content_ch/introduction/calibration/mag_calib.md)
       - [流量计校准](content_ch/introduction/calibration/flow_calib.md)
       - [电机检查](content_ch/introduction/calibration/motor_calib.md)
-    </details>
-  </details>
 - <details> 
   <summary>APP说明</summary>  
 
     - [APP参数说明](content_ch/introduction/APPpar.md)
     - [APP管理设置](content_ch/introduction/APPuser.md)
     - [植保平台](content_ch/introduction/AGplatform.md)
-  </details>
 - [安全概要](content_ch/introduction/sercurity.md)
 - [免责声明](content_ch/introduction/satament.md)
 - [视频链接](content_ch/introduction/video.md)
