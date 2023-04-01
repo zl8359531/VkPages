@@ -1,0 +1,9 @@
+* * Disclaimer and Warnings * *
+
+ This product is not a toy and is not suitable for people under the age of 18. Do not let children contact this product, it is strictly prohibited to use this product in cases with children. Before using this product, please read the User Manual carefully. This statement is intended for safe use
+
+ This product and your legitimate rights and interests have an important impact.
+
+ This product is a multi-rotor agricultural plant protection machine, only used for farmland, woodland and orchard. It will provide excellent flight and operation experience when the power supply is working normally and the parts are not damaged. Be sure to read this document carefully before using the product to understand your legal rights, responsibilities and safety instructions; otherwise, it may cause property loss, safety accidents and personal safety risks. Once using this product, you are deemed to have understood, approved and accepted all the terms and content of this document. The user promises to be responsible for his actions and all the consequences. The User undertakes to use the Product only for proper purposes and agrees to these terms and any relevant policies or guidelines that may be developed by VK.
+
+VK does not provide any warranty, express or implied, including without limitation merchantability, fitness for specific purposes or implied warranty of noninfringement. To the maximum extent permitted by law, you shall bear all costs of all necessary services, repairs and amendments. VK shall not bear all losses caused by the user's failure to use the product in accordance with the User Manual, and shall not be liable for any indirect, consequence, punitive, accidental, special or penal damage, including losses caused by your purchase, use or failure to use the product.

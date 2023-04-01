@@ -1,53 +1,39 @@
 <!-- docs/_sidebar.md -->
 
-- [Introduction](/)
+<style type="text/css">
+details summary::-webkit-details-marker { display:none; } 去三角形
+summary{outline:none;}去边框
+</style>
 
-- Getting started
+- [简介](content_ch/)
+- [<font size=3 face="黑体">Connection</font>](introduction/connect.md)
+- [<font size=3 face="黑体">Install</font>](introduction/quickstart.md)
+- [<font size=3 face="黑体">First Use</font>](introduction/app/appdownload.md)
+- [<font size=3 face="黑体">First Fly</font>](introduction/fly.md)
+- <details> <summary><font size=3 face="黑体">Flight Control Instruction</font> </summary> 
+ 
+  - [<font size=3 face="黑体">AB Mode</font>](introduction/ABmode.md)
+  - [<font size=3 face="黑体">Auto Mode</font>](introduction/AUTOmode.md)
+  - [<font size=3 face="黑体">RTK Instruction</font>](introduction/RTK.md)
+  - [<font size=3 face="黑体">Lamp Signal</font>](introduction/light.md)
+  - <details> <summary><font size=3 face="黑体">Sensor Calibration</font></summary>
 
-  - [Quick Start](introduction/quickstart.md)
-  - [Configuration](introduction/configuration/configuration.md)
-    - [Console Configuration](introduction/configuration/console_config.md)  
-    - [Mavproxy Configuration](introduction/configuration/mavproxy_config.md)  
-    - [Pilot-Cmd Configuration](introduction/configuration/pilot_cmd_config.md)  
-    - [Actuator Configuration](introduction/configuration/actuator_config.md)  
-  - Sensor Calibration
-  
-    - [Gyroscopic Calibration](introduction/calibration/gyro_calib.md)
-    - [Accelerometer Calibration](introduction/calibration/accel_calib.md)
-    - [Compass Calibration](introduction/calibration/mag_calib.md)
-    - [Level Horizon Calibration](introduction/calibration/level_calib.md)
-    - [RC Calibration](introduction/calibration/rc_calib.md)
-    - [ESC Calibration](introduction/calibration/esc_calib.md)
+    - [<font size=3 face="黑体">Remote control calibration</font>](introduction/calibration/remote_calib.md)
+    - [<font size=3 face="黑体">Flight calibration</font>](introduction/calibration/fly_calib.md)
+    - [<font size=3 face="黑体">Magnetic calibration</font>](introduction/calibration/mag_calib.md)
+    - [<font size=3 face="黑体">Flowmeter calibration</font>](introduction/calibration/flow_calib.md)
+    - [<font size=3 face="黑体">Motor inspection</font>](introduction/calibration/motor_calib.md)
+- <details> <summary> <font size=3 face="黑体"> APP Calibration</font></summary>  
 
-  - [Debug](introduction/debug.md)
-  - [Logging](introduction/logging.md)
+  - [<font size=3 face="黑体">APP Parameter introduction</font>](introduction/APPpar.md)
+  - [<font size=3 face="黑体">APP Management Settings</font>](introduction/APPuser.md)
+  - [<font size=3 face="黑体">Agricultural Platform</font>](introduction/AGplatform.md)
+- [<font size=3 face="黑体">Safety Profile</font>](introduction/sercurity.md)
+- [<font size=3 face="黑体">Disclaimer</font>](introduction/satament.md)
+- [<font size=3 face="黑体">Video Link</font>](introduction/video.md)
 
-- Modules
 
-  - [uMCN](module/uMCN.md)
-  - [Param](module/param.md)
-  - [Mlog](module/mlog.md)
-  - [Mavproxy](module/mavproxy.md)
-
-- Model-Based Design
-
-  - [Quick Start](mbd/mbd_quickstart.md)
-
-  - Model Interface
-
-    - [FMS Interface](mbd/interface/fms_interface.md)
-    - [INS Interface](mbd/interface/ins_interface.md)
-    - [Controller Interface](mbd/interface/controller_interface.md)
-    - [Plant Interface](mbd/interface/plant_interface.md)
-
-  - [Add New Model](mbd/new_model.md)
-  - [Code Generation](mbd/codegen.md)
-  - [Code Deployment](mbd/code_deploy.md)
-
-- Simulation
-
-  - [Model-In-The-Loop](simulation/MIL.md)
-  - [Open-Loop Simulation](simulation/openloop.md)
-  - [Simulation-In-Hardware](simulation/SIH.md)
-  - [Software-In-The-Loop](simulation/SIL.md)
-  - [Hardware-In-The-Loop](simulation/HIL.md)
+<style type="text/css">
+details summary::-webkit-details-marker { display:none; } 去三角形
+summary{outline:none;}去边框
+</style>

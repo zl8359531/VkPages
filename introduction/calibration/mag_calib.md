@@ -1,37 +1,14 @@
 
-## Perform Calibration
+## Magnetic compass calibration
 
-The compass calibration process is done via the QGroundControl interface. Follow the guide of QGroundControl to complete the calibration process.
+ After the installation and inspection work is completed, you can go to the outfield for test flight test. A magnetic compass calibration must be done before the test flight. The calibration method is as shown below:
 
-1. Click the Compass sensor button.
+-Connect the remote control, enter the flight calibration page in the APP, click the geomagnetic calibration button, the LED indicator becomes green, and enter the horizontal calibration mode.
 
-<img src="figures/mag_calib1.png" width="50%">
+<img src="pictures/MAG1.png" width="30%" height="250">
 
-2. Click OK to start the calibration.
-3. Place the vehicle in any of the orientations shown in red (incomplete) and hold it still. Once prompted (the orientation-image turns yellow) rotate the vehicle around the specified axis in either/both directions. Once the calibration is complete for the current orientation the associated image on the screen will turn green.
+-Calibrate the vehicle horizontally until the LED turns blue into vertical calibration mode.
 
-<img src="figures/mag_calib2.png" width="50%">
+<img src="pictures/MAG2.png" width="30%" height="250">
 
-4. Repeat the calibration process for all vehicle orientations.
-
-## Check & Save Result
-
-1. The calibration result can be seen by typing `param list CALIB` in console.
-
-```
-msh />param list CALIB
-CALIB:
-......
-       MAG0_XOFF: -0.025247
-       MAG0_YOFF: -0.067397
-       MAG0_ZOFF: -0.136934
-    MAG0_XXSCALE: 0.863891
-    MAG0_YYSCALE: 0.912510
-    MAG0_ZZSCALE: 0.931017
-    MAG0_XYSCALE: 0.010489
-    MAG0_XZSCALE: -0.022396
-    MAG0_YZSCALE: 0.076960
-......
-```
-
-2. Save the calibration result by typing `param save` in console, otherwise the calibration result will lost when system power-off.
+-The head is vertically up and then rotates. The LED indicates that the blue light turns off to change the flicker calibration works successfully. If the LED indicator turns red, the calibration fails.

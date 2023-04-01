@@ -63,12 +63,10 @@ https://www.bilibili.com/video/BV19Y4y1z7WK?spm_id_from=333.999.0.0
 
 https://www.bilibili.com/video/BV11a411f7qz?spm_id_from=333.999.0.0
 
-17.EFT播撒器校准
+17.EFT播撒器校准（Spreader calibration）
 
 https://www.bilibili.com/video/BV1ge4y1y7TQ?spm_id_from=333.999.0.0&vd_source=4813f9de887ce27b46ffac5a84756332
 
-18.飞控转让
+18.飞控转让（Flight control transfer）
 
 https://www.bilibili.com/video/BV1Be4y1b7aY/?spm_id_from=333.999.0.0
-
-<video src="https://www.bilibili.com/video/BV1Be4y1b7aY/?spm_id_from=333.999.0.0" controls>
