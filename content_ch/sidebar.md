@@ -1,11 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 - [简介](content_ch/)
-
-- ▶[连接说明](content_ch/introduction/connect.md)
-- ▶[设备安装](content_ch/introduction/quickstart.md)
-- ▶[初步使用](content_ch/introduction/app/appdownload.md)
-- ▶[初步飞行](content_ch/introduction/fly.md)
+- [连接说明](content_ch/introduction/connect.md)
+- [设备安装](content_ch/introduction/quickstart.md)
+- [初步使用](content_ch/introduction/app/appdownload.md)
+- [初步飞行](content_ch/introduction/fly.md)
 - <details> 
   <summary>飞控说明</summary> 
 
@@ -31,3 +30,7 @@
 - [免责声明](content_ch/introduction/satament.md)
 - [视频链接](content_ch/introduction/video.md)
 
+<style type="text/css">
+details summary::-webkit-details-marker { display:none; } 去三角形
+summary{outline:none;}去边框
+</style>
