@@ -24,7 +24,7 @@ The default 3 can be selected for the first test flight noise suppression; the i
 For the first test flight, the default sensitivity parameters can be adopted. In the open room, wait for a good star search, unlock in GPS mode, take off to check the flight status in the air, and conduct further parameter tuning.
 
 
-* * Description: * *
+** Description **
 
 **① R / P base sensitivity: * * In attitude mode, the base sensitivity is first adjusted, and the default value is 120 (please set this parameter to 100 for aircraft above 30 inch paddle). In the attitude mode, try to not move the pole and observe the self-stability ability of the aircraft. The simple method is to hit the pole back in a small range to see whether the aircraft can quickly recover the level. If not, it will increase upward with the value of 5 each time. Increase this sensation until the aircraft has a slight jitter, and then reduce by 20% is the appropriate sensation. The base sensitivity should not exceed 180, otherwise there will be a greater risk of self-excitation oscillation.
 

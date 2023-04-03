@@ -1,14 +1,16 @@
-## 飞行校准
+## Flight Calibration
 
-1）电压校准
+1)Voltage calibration
 
-飞控系统检测的动力电池电压可能和电池实际的电压有些偏差，这个时候需要做一下电压校准，在飞行校准页面真实电压处填入电池的真实电压，点击校准即可完成电压校准。
+The power battery voltage detected by the flight control system may be slightly different from the actual voltage of the battery,At this point, need to do a voltage calibration
+Fill in the real voltage of the battery in the real voltage of the flight calibration page, and click Calibration to complete the voltage calibration,
 
-*注意：只能填写与显示电压±5的电压值，电压差距过大的情况下无法校准，需要检查差距过大的原因。*
+* Note: Only the voltage value with the displayed voltage ±5 can be filled in. If the voltage gap is too large, it cannot be calibrated. It is necessary to check the reason for the gap. *
 
-2）水平校准
+2）Horizontal calibration
+Since there may be some deviation between the mounting plane and the plane of the aircraft body, it is necessary to carry out horizontal calibration, otherwise the flight performance will be affected. Put the aircraft on a horizontal plane to ensure that the aircraft is basically level. At this time, if the attitude Angle of the aircraft has a deviation of more than 2 degrees, it needs to carry out horizontal calibration. Enter the advanced setting \> flight calibration \> confirm level. At this time, it will be found that the previous Angle deviation will be cleared and the level calibration will be completed. (* Factory will do horizontal calibration, generally do not need horizontal calibration *)
 
-由于飞控的安装平面和机体平面可能存在一定的偏差，需要进行水平校准，否则会影响飞行性能。将飞机放在水平的平面上，确保飞机基本水平，此时如果飞机的姿态角度有大于2度的偏差，则需要进行水平校准。进入高级设置--\>飞行校准--\>确认水平，此时会发现之前的角度偏差会被清零，水平校准完成。（*出厂会做水平校准，一般不需要水平校准*）
+
 
 
 

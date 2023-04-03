@@ -1,8 +1,10 @@
 ## Autonomous route mode
 
-* Plot planning and homework tutorial: * [* https: / / www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0)
+* Plot planning and homework tutorial:
+ * [* https: / / www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1US4y1m77f?spm_id_from=333.999.0.0)
 
-* Chihiro Connection tutorial: * [* https: / / www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0)
+* Chihiro Connection tutorial:
+ * [* https: / / www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0*](https://www.bilibili.com/video/BV1dU4y1g7YN?spm_id_from=333.999.0.0)
 
 # Plot surveying and mapping
 

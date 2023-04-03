@@ -23,7 +23,7 @@ summary{outline:none;}去边框
     - [<font size=3 face="黑体">Magnetic calibration</font>](introduction/calibration/mag_calib.md)
     - [<font size=3 face="黑体">Flowmeter calibration</font>](introduction/calibration/flow_calib.md)
     - [<font size=3 face="黑体">Motor inspection</font>](introduction/calibration/motor_calib.md)
-- <details> <summary> <font size=3 face="黑体"> APP Calibration</font></summary>  
+- <details> <summary> <font size=3 face="黑体"> APP Introduction</font></summary>  
 
   - [<font size=3 face="黑体">APP Parameter introduction</font>](introduction/APPpar.md)
   - [<font size=3 face="黑体">APP Management Settings</font>](introduction/APPuser.md)

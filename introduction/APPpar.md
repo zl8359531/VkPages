@@ -6,7 +6,7 @@ The setting functions include the configuration and the remote control setting o
 
 Figure of the Remote Control Settings page
 
-<img src= " pictures / remote control connection.jpeg" width="50%">
+<img src="pictures/遥控器连接.jpeg" width="50%"> 
 
  At present, the Bluetooth connection mode and the USB connection mode are supported.
 
