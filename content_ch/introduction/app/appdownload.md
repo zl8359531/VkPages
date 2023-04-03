@@ -15,7 +15,9 @@ APP地址：<http://cloud.jiagutech.com/upgrade/vk-ags2.html>
 
 制造商账户需工作人员提供注册文档。
 
-*<pictures/制造商微克智飞云平台快速向导.pdf>
+<file src="pictures/微克智飞云平台制造商快速向导.pdf">
+
+<File://pictures/微克智飞云平台制造商快速向导.pdf>
 
 # 通信检查
 

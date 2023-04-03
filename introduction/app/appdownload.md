@@ -30,4 +30,4 @@ When no channel data appears after the remote control is connected, check:
 
 4\. Check whether the flight control is in the upgrade state.(LED light white light 5 flash, connected to the drone AP will report the upgrade)
 
-<img src="pictures/雷达安装.jpeg" width="70%">
+<img src="pictures/遥控器连接.jpeg" width="60%"> 
