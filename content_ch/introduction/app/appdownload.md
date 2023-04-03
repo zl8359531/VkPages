@@ -17,7 +17,7 @@ APP地址：<http://cloud.jiagutech.com/upgrade/vk-ags2.html>
 
 <file src="pictures/微克智飞云平台制造商快速向导.pdf">
 
-<File://pictures/微克智飞云平台制造商快速向导.pdf>
+[my link](pictures/微克智飞云平台制造商快速向导.pdf)
 
 # 通信检查
 
