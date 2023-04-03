@@ -27,7 +27,8 @@ summary{outline:none;}去边框
 
   - [<font size=3 face="黑体">APP参数说明</font>](content_ch/introduction/APPpar.md)
   - [<font size=3 face="黑体">APP管理设置</font>](content_ch/introduction/APPuser.md)
-  - [<font size=3 face="黑体">植保平台</font>](content_ch/introduction/AGplatform.md)
+- [<font size=3 face="黑体">植保平台</font>](content_ch/introduction/AGplatform.md)
+- [<font size=3 face="黑体">常见问题</font>](content_ch/introduction/warning.md)
 - [<font size=3 face="黑体">安全概要</font>](content_ch/introduction/sercurity.md)
 - [<font size=3 face="黑体">免责声明</font>](content_ch/introduction/satament.md)
 - [<font size=3 face="黑体">视频链接</font>](content_ch/introduction/video.md)
