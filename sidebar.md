@@ -5,7 +5,7 @@ details summary::-webkit-details-marker { display:none; } 去三角形
 summary{outline:none;}去边框
 </style>
 
-- [Brief Introduction](content_ch/)
+- [Brief Introduction](/)
 - [<font size=3 face="黑体">Connection</font>](introduction/connect.md)
 - [<font size=3 face="黑体">Install</font>](introduction/quickstart.md)
 - [<font size=3 face="黑体">First Use</font>](introduction/app/appdownload.md)
