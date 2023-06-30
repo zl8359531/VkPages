@@ -31,7 +31,7 @@ summary{outline:none;}去边框
 - [<font size=3 face="黑体">Safety Profile</font>](introduction/sercurity.md)
 - [<font size=3 face="黑体">Disclaimer</font>](introduction/satament.md)
 - [<font size=3 face="黑体">Video Link</font>](introduction/video.md)
-
+- [<font size=3 face="黑体">Pid Par</font>](introduction/pid.md)
 
 <style type="text/css">
 details summary::-webkit-details-marker { display:none; } 去三角形
