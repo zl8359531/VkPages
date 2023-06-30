@@ -32,7 +32,7 @@ summary{outline:none;}去边框
 - [<font size=3 face="黑体">安全概要</font>](content_ch/introduction/sercurity.md)
 - [<font size=3 face="黑体">免责声明</font>](content_ch/introduction/satament.md)
 - [<font size=3 face="黑体">视频链接</font>](content_ch/introduction/video.md)
-
+- [<font size=3 face="黑体">飞机感度</font>](content_ch/introduction/video.md)
 
 <style type="text/css">
 details summary::-webkit-details-marker { display:none; } 去三角形
