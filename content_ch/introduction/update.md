@@ -20,16 +20,19 @@
 |**设备固件**|**重命名**|
 |-----------|-----------|
 |V9-fmu 	|			   V9_AG_FMU.bin|
-|V9-pmu		|	   V9_AG_PMU.bin|
-|V9-radar	|		   V9_RADAR_MB0\1.bin |
+|V9-pmu		|	            V9_AG_PMU.bin|
+|V9-radar	|		    V9_RADAR_MB0\1.bin|
 |V9-fradar	|		   V9_FRADAR_MB0\1.bin|
-|V9-bradar	|			   V9_BRADAR_MB0\1.bin|
-|V7-飞控固件|					V7_AG.bin.bin|
+|V9-bradar	|			  V9_BRADAR_MB0\1.bin|
+|V7-飞控固件|				V7_AG.bin.bin|
 |V7-IMU固件	|			    IMU_AG.bin|
 |V7-防地雷达|	            V7_RADAR.bin|
 |V7-前避障  |             V7_FRADAR.bin|
 |V7-后避障|			        V7_BRADAR.bin|
 |bs-基站|					    RTKBS.bin|
 
-
-[PMU固件0421](http://download.jiagutech.com/download/V9_AG_PMU_APP_20230421.bin)
+## 固件下载  
+[V9_FMU固件230408](http://download.jiagutech.com/download/V9_AG_FMU_APP_20230408.bin)
+[V9_PMU固件230421](http://download.jiagutech.com/download/V9_AG_PMU_APP_20230421.bin)
+[v7_FMU固件220510](http://download.jiagutech.com/download/V7_AG_FCU_APP_GPS-RTK_20220510_V73.bin)
+[V7_IMU固件220415](http://download.jiagutech.com/download/IMU_V76_AG_220415.bin)
