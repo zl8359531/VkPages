@@ -23,7 +23,7 @@
 |V9-radar	|		    V9_RADAR_MB0\1.bin|  
 |V9-fradar	|		   V9_FRADAR_MB0\1.bin|  
 |V9-bradar	|			  V9_BRADAR_MB0\1.bin|  
-|V7-飞控固件|				V7_AG.bin.bin|  
+|V7-飞控固件|				V7_AG.bin|  
 |V7-IMU固件	|			    IMU_AG.bin|  
 |V7-防地雷达|	            V7_RADAR.bin|  
 |V7-前避障  |             V7_FRADAR.bin|  
