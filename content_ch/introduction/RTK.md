@@ -34,14 +34,14 @@ RTK模块安装注意事项：
 
 目前有两种方式连接网络版RTK
 一种是通过千寻或NTRIP如图，手动选择获取RTCM方式，通过APP转发RTCM给飞控
-<div  align="center"> <img src="../../pictures/RTKINS6.jpg" width="50%" height="50%">
+<div  align="center"> <img src="pictures/RTKINS6.jpg" width="50%" height="50%">
 </div>
 
 另一种是使用4G电台模块，模块内部绑定千寻，电台发送RTCM给飞控(此方式遥控器可不用联网)
 
 登录绑定千寻的账号、或手动输入NTRIP所需信息。手机/遥控器连接网络，进入手动作业页面。
 
-<div  align="center"> <img src="../../pictures/RTKINS7.png" width="50%" height="50%">
+<div  align="center"> <img src="pictures/RTKINS7.png" width="50%" height="50%">
 </div>
 
 1、首先确认是否有绿灯闪烁，绿灯闪烁表示有RTCM信息接入。（如果不闪烁，检查网络连接或账号是否绑定千寻）
@@ -54,14 +54,14 @@ RTK模块安装注意事项：
 
 1，基站连接电池上电，通过APP-”RTK基站设置”页面搜索并连接RTK基站。蓝牙名称一般为“VKBFXXXX”
 
-<div  align="center"> <img src="../../pictures//RTKINS3.png" width="50%" height="50%">
+<div  align="center"> <img src="pictures//RTKINS3.png" width="50%" height="50%">
 </div>
 
 2，点击”进入踩点模式”。等待搜星定位。
 
 3，进入“测绘”页面，测绘设备选择“RTK基站”，并再次连接RTK基站蓝牙。
 
-<div  align="center"> <img src="../../pictures//RTKINS4.png" width="50%" height="50%">
+<div  align="center"> <img src="pictures//RTKINS4.png" width="50%" height="50%">
 </div>
 
 地图上会显示位置，右上角显示定位类型及星数。当定位良好后可进行打点圈地操作。
